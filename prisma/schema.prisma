@@ -18,6 +18,7 @@ model Anime {
   title String
   description String
   episodes Int
+  releaseYear Int
   studio String
   genres String
   rating Float
